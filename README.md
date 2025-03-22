@@ -1,1 +1,3 @@
 # mydiscordbot
+
+hello
